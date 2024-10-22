@@ -1,3 +1,4 @@
+import Features from "./sections/Features";
 import Hero from "./sections/Hero";
 import Nav from "./sections/Nav";
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <Nav />
       <Hero />
+      <Features />
     </>
   );
 }
